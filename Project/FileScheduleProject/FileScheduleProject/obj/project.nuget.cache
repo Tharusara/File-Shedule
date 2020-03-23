@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CmUYEqURfuE210VUvSuUkrwmgQS+l/wo1Pb7WkClQ+jhJUMm04tW25gtVLXD7UPP0if5JfXv4iAHVohdWxZRMg==",
+  "success": true,
+  "projectFilePath": "D:\\Office\\FileScheduleProject\\FileScheduleProject\\FileScheduleProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asus\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.2\\microsoft.extensions.dependencyinjection.3.1.2.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.2\\microsoft.extensions.dependencyinjection.abstractions.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
